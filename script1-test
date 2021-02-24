@@ -6,19 +6,19 @@ command /simplecommand :
 
         format slot 0 of player with 1 of lead named "&4&lExample" with lore "&7Example lore" to run [make player execute "command here"]
 
-        format slot 1 of player with 1 of 160:7 named "&7Puste Pole" to close
+        format slot 1 of player with 1 of 160:7 named "&7Null" to close
 
         format slot 2 of player with 1 of Red Mushroom named "&4&lExample" with lore "&7Example lore" to run [make player execute "command here"]
 
-        format slot 3 of player with 1 of 160:7 named "&7Puste Pole" to close
+        format slot 3 of player with 1 of 160:7 named "&7Null" to close
 
         format slot 4 of player with 1 of name tag named "&4&lExample" with lore "&7Example lore" to run [make player execute "command here"]
 
-        format slot 5 of player with 1 of 160:7 named "&7Puste Pole" to close
+        format slot 5 of player with 1 of 160:7 named "&7Null" to close
 
         format slot 6 of player with 1 of 381 named "&4&lExample" with lore "&7Example lore" to run [make player execute "command here"]
 
-        format slot 7 of player with 1 of 160:7 named "&7Puste Pole" to close
+        format slot 7 of player with 1 of 160:7 named "&7Null" to close
 
         format slot 8 of player with 1 of diamond sword named "&4&lExample" with lore "&7Example lore" to run [make player execute "command here"]
 
